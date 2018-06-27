@@ -1,0 +1,221 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "ua-cpu",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "text/javascript"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/x-icon"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "MaxUsedConnections": 5,
+    "RecordedBrowser": "Internet Explorer",
+    "RecordingDate": "Jun-27-2018",
+    "RecordingDuration": 16782,
+    "RecordingTimeStamp": 1530125462,
+    "TotalBytesReceived": 271866,
+    "TotalBytesSent": 5167,
+    "TotalRequests": 11
+  },
+  "HostInfo": [
+    {
+      "DomainName": "gstatic.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.0.35",
+          "IncludeInScript": true,
+          "Name": "ssl.gstatic.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 299,
+              "HttpStatus": 200,
+              "Size": 7325,
+              "URL": "https://ssl.gstatic.com/gb/images/i1_1967ca6a.png"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-SHA",
+          "SSLVersion": "TLS1.1"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.219.36",
+          "IncludeInScript": true,
+          "Name": "www.google.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 94,
+              "EventId": 8,
+              "HttpStatus": 302,
+              "Size": 231,
+              "URL": "http://www.google.com/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.219.36",
+          "IncludeInScript": true,
+          "Name": "www.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 78,
+              "EventId": 269,
+              "HttpStatus": 200,
+              "Size": 34809,
+              "URL": "https://www.google.com/xjs/_/js/k=xjs.s.en_US.EJn3JxysB74.O/m=aa,abd,async,dvl,foot,fpe,ifl,ipv6,lu,m,mu,sf,d3l/am=IIvIfPoAkP-nYCBRwApGWGACBUME/rt=j/d=1/exm=sx,sb,cdos,cr,elog,hsm,jsa,r,d,csi/ed=1/dg=0/rs=ACT90oGG6rI3Rk97GG87PsPI9GE4ByLK_Q?xjs=s1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 78,
+              "EventId": 267,
+              "HttpStatus": 200,
+              "Size": 258,
+              "URL": "https://www.google.com/textinputassistant/tia.png"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 32,
+              "EventId": 142,
+              "HttpStatus": 200,
+              "Size": 143794,
+              "URL": "https://www.google.com/xjs/_/js/k=xjs.s.en_US.EJn3JxysB74.O/m=sx,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=IIvIfPoAkP-nYCBRwApGWGACBUME/rt=j/d=1/dg=0/rs=ACT90oGG6rI3Rk97GG87PsPI9GE4ByLK_Q"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 110,
+              "EventId": 136,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://www.google.com/gen_204?s=webaft&atyp=csi&ei=udwzW7zMPICR0PEPhd22iAg&rt=wsrt.1665,aft.1098,prt.1098"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 79,
+              "EventId": 133,
+              "HttpStatus": 200,
+              "Size": 1238,
+              "URL": "https://www.google.com/images/hpp/shield-security-web-96dp.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 47,
+              "EventId": 119,
+              "HttpStatus": 200,
+              "Size": 13504,
+              "URL": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 79,
+              "EventId": 110,
+              "HttpStatus": 200,
+              "Size": 5087,
+              "URL": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 188,
+              "EventId": 52,
+              "HttpStatus": 200,
+              "Size": 65383,
+              "URL": "https://www.google.com/?gws_rd=ssl"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-SHA",
+          "SSLVersion": "TLS1.1"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "bing.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.107.21.200",
+          "IncludeInScript": true,
+          "Name": "www.bing.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/x-icon",
+              "DownloadTime": 31,
+              "EventId": 27,
+              "HttpStatus": 200,
+              "Size": 237,
+              "URL": "http://www.bing.com/favicon.ico"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": false
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 1
+}

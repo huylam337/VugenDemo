@@ -1,0 +1,17 @@
+[t2]
+FileName1=t2.htm
+URL1=https://www.google.com/?gws_rd=ssl
+Total=4
+RequestHeaderFile=t2_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t2_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_2.xml
+FileName2=t2_googlelogo_color_120x44dp.png
+URL2=https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+FileName3=t2_googlelogo_color_272x92dp.png
+URL3=https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
+FileName4=t2_shield-security-web-96dp.png
+URL4=https://www.google.com/images/hpp/shield-security-web-96dp.png
+[ProtocolInfo]
+ProtocolId=QTWeb

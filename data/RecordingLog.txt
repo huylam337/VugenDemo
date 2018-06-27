@@ -1,0 +1,354 @@
+[API Trapper      ( 600: bd0)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      ( 220: be8)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      ( 778: 780)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer ( 778: 434)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 778: 434)] Load Network Traffic Analyzers:
+[Network Analyzer ( 778: 434)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( 778: 434)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer ( 778: 434)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( 778: 434)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer ( 778: 434)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer ( 778: 434)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( 778: 434)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( 778: 434)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 778: 974)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 7c4)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 434)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 434)] Request Connection: Remote Server @ 216.58.219.36:80   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer ( 778: 7c4)] Request Connection: Remote Server @ 216.58.219.36:80   (Service=)  (Sid=  2)  PROXIED!
+[Web Request      ( 778: 974)] "GET /"   
+[Network Analyzer ( 778: 974)]   (Sid:  1) Client -> Server @ : 249 bytes (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  1) Server -> Client : 893 bytes  (Service=HTTP)
+[Network Analyzer ( 778: 4e0)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 4e0)] Request Connection: Remote Server @ 216.58.219.36:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( 220: 78c)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 220: 78c)] Load Network Traffic Analyzers:
+[Network Analyzer ( 220: 78c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( 220: 78c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( 220: 78c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( 220: 78c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( 220: 78c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( 220: 78c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( 220: 78c)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( 220: 78c)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 220: 588)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 220: 790)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 220: 78c)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 220: 790)] Request Connection: Remote Server @ 204.79.197.200:80   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      ( 220: 588)] "GET /favicon.ico"   
+[Network Analyzer ( 220: 588)]   (Sid:  1) Client -> Server @ : 220 bytes (Service=HTTP)
+[Network Analyzer ( 220: 78c)] Request Connection: Remote Server @ 204.79.197.200:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( 778: 4e4)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer ( 220: 588)]   (Sid:  1) Server -> Client : 582 bytes  (Service=HTTP)
+[Network Analyzer ( 778: 7c4)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 7c4)] Request Connection: Remote Server @ 216.58.194.174:80   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      ( 778: 974)] "GET /GTSGIAG3/MEkwRzBFMEMwQTAJBgUrDgMCGgUABBQY%2BIWplxzce%2B%2BGCW0BmDyo%2BZ8lVgQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCCGtRMTyxXCmW"   
+[Network Analyzer ( 778: 974)]   (Sid:  4) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  4) Server -> Client : 1430 bytes  (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  4) Server -> Client : 463 bytes  (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer ( 778: 434)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 434)] Request Connection: Remote Server @ 216.58.194.174:80   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      ( 778: 974)] "POST /GTSGIAG3"   
+[Network Analyzer ( 778: 974)]   (Sid:  5) Client -> Server @ : 300 bytes (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  5) Server -> Client : 1430 bytes  (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  5) Server -> Client : 350 bytes  (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer ( 778: 7c4)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 7c4)] Request Connection: Remote Server @ 172.217.5.110:80   (Service=)  (Sid=  6)  PROXIED!
+[Web Request      ( 778: 974)] "GET /GTSGIAG3.crl"   
+[Network Analyzer ( 778: 974)]   (Sid:  6) Client -> Server @ : 124 bytes (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  6) Server -> Client : 1025 bytes  (Service=HTTP)
+[Web Request      ( 778: 974)] "GET /GTSGIAG3.crl"   
+[Network Analyzer ( 778: 974)]   (Sid:  6) Client -> Server @ : 167 bytes (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  6) Server -> Client : 1025 bytes  (Service=HTTP)
+[Net An. Error    ( 778: 4e4)] SSLAccept(ssl_id = 109934288 = 068D76D0) Failed, ctx = 068F0530, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( 778: 4e4)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 778: 4e0)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 974)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer ( 778: 4e0)] Request Connection: Remote Server @ 216.58.219.36:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer ( 778: 85c)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer ( 778: 85c)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      ( 778: 974)] "GET /?gws_rd=ssl"   
+[Network Analyzer ( 778: 974)]   (Sid:  7) Client -> Server @ : 428 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 430 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 236 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 723 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 153 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1343 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 755 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 403 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 345 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      ( 778: 974)] "GET /images/branding/googlelogo/2x/googlelogo_color_120x44dp.png"   
+[Network Analyzer ( 778: 974)]   (Sid:  7) Client -> Server @ : 534 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 778: 4e0)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 434)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  7) Server -> Client : 1355 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 4e0)] Request Connection: Remote Server @ 216.58.219.36:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( 778: 434)] Request Connection: Remote Server @ 216.58.219.36:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer ( 778: 5f0)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer ( 778: 5f0)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      ( 778: 974)] "GET /images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"   
+[Network Analyzer ( 778: 974)]   (Sid:  8) Client -> Server @ : 534 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  8) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  8) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  8) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  8) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  8) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  8) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  8) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  8) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  8) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  8) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  8) Server -> Client : 162 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 98c)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer ( 778: 98c)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      ( 778: 974)] "GET /images/hpp/shield-security-web-96dp.png"   
+[Network Analyzer ( 778: 974)]   (Sid:  9) Client -> Server @ : 514 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 252 bytes (SSL) (Service=HTTP)
+[Web Request      ( 778: 974)] "GET /gen_204?s=webaft&atyp=csi&ei=udwzW7zMPICR0PEPhd22iAg&rt=wsrt.1665,aft.1098,prt.1098"   
+[Network Analyzer ( 778: 974)]   (Sid:  9) Client -> Server @ : 558 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 353 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 4e0)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 434)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 4e0)] Request Connection: Remote Server @ 172.217.0.35:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer ( 778: 434)] Request Connection: Remote Server @ 172.217.0.35:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer ( 778: 44c)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Web Request      ( 778: 974)] "GET /xjs/_/js/k=xjs.s.en_US.EJn3JxysB74.O/m=sx,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=IIvIfPoAkP-nYCBRwApGWGACBUME/rt=j/d=1/dg=0/rs=ACT90oGG6rI3Rk97GG87PsPI9GE4ByLK_Q"   
+[Network Analyzer ( 778: 974)]   (Sid:  9) Client -> Server @ : 615 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 4e0)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 434)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 4e0)] Request Connection: Remote Server @ 172.217.0.35:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 434)] Request Connection: Remote Server @ 172.217.0.35:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 990)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 284 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1189 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 43c)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 4e0)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 4e0)] Request Connection: Remote Server @ 216.58.194.174:80   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Web Request      ( 778: 974)] "GET /GTSGIAG3/MEkwRzBFMEMwQTAJBgUrDgMCGgUABBQY%2BIWplxzce%2B%2BGCW0BmDyo%2BZ8lVgQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCCCa8pURgMMMr"   
+[Network Analyzer ( 778: 974)]   (Sid: 14) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 8b0)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1189 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1189 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid: 14) Server -> Client : 1893 bytes  (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 365 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid: 14) Client -> Server @ : 225 bytes (Service=HTTP)
+[Web Request      ( 778: 974)] "POST /GTSGIAG3"   
+[Network Analyzer ( 778: 974)]   (Sid: 14) Client -> Server @ : 75 bytes (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid: 14) Server -> Client : 1780 bytes  (Service=HTTP)
+[Net An. Error    ( 778: 43c)] SSLAccept(ssl_id = 123904632 = 0762A278) Failed, ctx = 04FF1B48, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( 778: 43c)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( 778: 990)] SSLAccept(ssl_id = 123900240 = 07629150) Failed, ctx = 04FF1B48, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( 778: 990)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( 778: 8b0)] SSLAccept(ssl_id = 123900728 = 07629338) Failed, ctx = 04FF1B48, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( 778: 8b0)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( 778: 44c)] SSLAccept(ssl_id = 83828016 = 04FF1D30) Failed, ctx = 04FF1B48, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( 778: 44c)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 778: 434)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 764)] Address lookup for LR1255 = 192.168.1.129
+[Network Analyzer ( 778: 974)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer ( 778: 974)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer ( 778: 974)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer ( 778: 974)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer ( 778: 434)] Request Connection: Remote Server @ 172.217.0.35:443   (Service=)  (Sid= 15)  PROXIED!
+[Web Request      ( 778: 974)] "GET /textinputassistant/tia.png"   
+[Network Analyzer ( 778: 974)]   (Sid:  8) Client -> Server @ : 501 bytes (SSL)(Service=HTTP)
+[Web Request      ( 778: 974)] "GET /xjs/_/js/k=xjs.s.en_US.EJn3JxysB74.O/m=aa,abd,async,dvl,foot,fpe,ifl,ipv6,lu,m,mu,sf,d3l/am=IIvIfPoAkP-nYCBRwApGWGACBUME/rt=j/d=1/exm=sx,sb,cdos,cr,elog,hsm,jsa,r,d,csi/ed=1/dg=0/rs=ACT90oGG6rI3Rk97GG87PsPI9GE4ByLK_Q?xjs=s1"   
+[Network Analyzer ( 778: 974)]   (Sid:  9) Client -> Server @ : 681 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  8) Server -> Client : 656 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 55c)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 283 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid:  9) Server -> Client : 668 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 55c)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      ( 778: 974)] "GET /gb/images/i1_1967ca6a.png"   
+[Network Analyzer ( 778: 974)]   (Sid: 15) Client -> Server @ : 333 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid: 15) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid: 15) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid: 15) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid: 15) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid: 15) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 778: 974)]   (Sid: 15) Server -> Client : 873 bytes (SSL) (Service=HTTP)

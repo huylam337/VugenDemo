@@ -1,0 +1,10 @@
+GET /gen_204?s=webaft&atyp=csi&ei=udwzW7zMPICR0PEPhd22iAg&rt=wsrt.1665,aft.1098,prt.1098 HTTP/1.1
+Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
+Referer: https://www.google.com/?gws_rd=ssl
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: www.google.com
+Connection: Keep-Alive
+Cookie: 1P_JAR=2018-06-27-18; NID=133=ZrrioKl5c-qjDwOIegh_gSSvI5kyqrWk9iHDyXbWmFWgscsO5c1i8k3hRUMun8qHCXtW3L25oZ7cD_AMnhwVTxJkFcD0bXt4PzDWyCQ8U0yEQ0uavOjEnhHX7QnCBeS3
+
